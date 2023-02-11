@@ -1,0 +1,6 @@
+go 1.18
+
+use (
+	./oauth2_client_credential_grant
+	.
+)
